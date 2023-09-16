@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* banner start */
+
+.container{
+    margin-bottom: 100px;
+}
+
+.orange-bg{
+    background: #FEEAE9;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #ff136f;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+/* banner end */
+
+/* catagory start */
+
+.cat1{
+    background: linear-gradient(90deg, #F08D27 0%, #F2C50D 100%);
+}
+
+.cat2{
+    background: linear-gradient(90deg, #EC4088 0%, #E91161 100%);
+}
+
+.cat3{
+    background: linear-gradient(90deg, #3871FF 0%, #2D0AF7 100%);
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.catagory img{
+    width: 100px;
+}
+
+.catagory h1{
+    color: #fff;
+}
+
+/* catagory end */
+
+/* shoe card sec start */
+
+
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px 5px  lightgray;
+}
+
+h3{
+    text-align: center;
+}
+/* shoe card sec end */
+
+
+/* contact sec start */
+
+#contact{
+    height: 300px;
+}
+
+#contact p{
+    color: gray;
+}
+/* contact sec end */
+
+/* footer part start */
+
+footer p{
+    text-align: center;
+    font-size: 14px;
+}
+
+/* footer part start */
